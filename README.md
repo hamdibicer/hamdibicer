@@ -12,6 +12,6 @@
 
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCHV-0hIQeHKtz6syOZSk0bQ)
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/hamdibicer)
-[![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/hamdibicer_)
+[![Discord Badge](https://img.shields.io/badge/İnstagram-e254ef.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/hamdibicer_)
 
 [Discord Sunucum](https://discord.gg/SXTbytD2PK)
