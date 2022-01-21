@@ -2,9 +2,9 @@
 🎉 Tekrardan herkese selam!
 
 - Kendimden kısaca bahsedeyim. Ben uHamdi namı değer [Hamdibicer](https://github.com/hamdibicer) 13 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
-1.5 yıla yakındır yazılım ile ilgileniyorum. [Bot Club](botclub.net) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
+1.5 yıla yakındır yazılım ile ilgileniyorum. [Rabel Code](rabelcode.com) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
 
-- Yoksa hâlâ Bot Club ekibinin geliştirmekte olduğu [Bot Club](botclub.net)'e göz atmadın mı ?
+- Yoksa hâlâ Bot Club ekibinin geliştirmekte olduğu [Rabel Code](rabelcode.com)'e göz atmadın mı ?
 
 <img src="https://komarev.com/ghpvc/?username=UtkuJS&label=Ziyaretçi%20Sayısı&color=552b75" alt="UtkuJS" />
 
