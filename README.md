@@ -1,7 +1,7 @@
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 🎉 Tekrardan herkese selam!
 
-- Kendimden kısaca bahsedeyim. Ben uHamdi namı değer [Hamdibicer](https://github.com/hamdibicer) 13 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
+- Kendimden kısaca bahsedeyim. Ben Hamdi namı değer [Hamdibicer](https://github.com/hamdibicer) 13 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
 1.5 yıla yakındır yazılım ile ilgileniyorum. [Rabel Code](rabelcode.com) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
 
 - Yoksa hâlâ Rabel Code ekibinin geliştirmekte olduğu [Rabel Code](rabelcode.com)'e göz atmadın mı ?
